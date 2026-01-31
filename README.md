@@ -24,7 +24,7 @@ ZKredit solves this with a **"Constraint Sandwich"** architecture:
 ---
 
 ## Demo
-[![Watch the Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=jxueQdHYbR8?si=z2_8wZG6T0p9JoQN)
+[![Watch the Demo Video](https://img.youtube.com/vi/jxueQdHYbR8/0.jpg)](https://www.youtube.com/watch?v=jxueQdHYbR8?si=z2_8wZG6T0p9JoQN)
 
 ---
 
